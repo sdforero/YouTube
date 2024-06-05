@@ -1,10 +1,4 @@
-# Data scientist
-
-### Education
-
-### Work experience
-
 ### Projects
 Text
-- Text 1
+## Covid 19
 - Text 2
