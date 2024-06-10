@@ -18,7 +18,7 @@ The project focuses on gaining a better understanding of audience interaction an
 1. Data Import: Relevant data such as comments, likes, dislikes, and video views were imported.
 2. Data Preprocessing: [2.1] The data was cleaned by removing null values and duplicates. [2.2] Text in the comments was tokenized and normalized.
 3. Sentiment Analysis: TextBlob was used to analyze the sentiment of comments and emojis, classifying them as positive, negative, or neutral​​.
-4. Audience Interpretation: The correlation between punctuation marks and the number of comments with the number of views was analyzed to understand the relationship between audience activity and video success​​..
+4. Audience Interpretation: The correlation between punctuation marks and the number of comments with the number of views was analyzed to understand the relationship between audience activity and video success​​.
 
 ### Visualization 
 |----|----|
@@ -30,4 +30,4 @@ The project focuses on gaining a better understanding of audience interaction an
 ### Analysis conclusions
 - There is a significant correlation between positive comments and the number of video views, suggesting that an entertained and engaged audience tends to increase the popularity of the content.
 - Punctuation marks and emojis in comments are useful indicators for determining the emotional interaction level of the audience.
-- Combining sentiment analysis and audience behavior can provide valuable insights for content creators looking to optimize their strategy on YouTube​​..
+- Combining sentiment analysis and audience behavior can provide valuable insights for content creators looking to optimize their strategy on YouTube​​.
