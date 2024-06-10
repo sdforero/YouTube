@@ -22,10 +22,12 @@ The project focuses on gaining a better understanding of audience interaction an
 
 ### Visualization 
 |----|----|
-|![Imagen1]()|![Imagen2]()
+|![Imagen1](https://github.com/sdforero/YouTube/blob/main/1.%20PositiveWordCloud.png)|![Imagen2](https://github.com/sdforero/YouTube/blob/main/10.%20PunctuationLikes.png)
 |----|----|
-|![Imagen3]()|![Imagen4]()
-|![Imagen5]()|![Imagen6]()
+|![Imagen3](https://github.com/sdforero/YouTube/blob/main/2.%20NegativeWordCloud.png)|![Imagen4](https://github.com/sdforero/YouTube/blob/main/3.%20FrequencyEmojis.png)
+|![Imagen5](https://github.com/sdforero/YouTube/blob/main/4.%20DistributionLikes.png)|![Imagen6](https://github.com/sdforero/YouTube/blob/main/5.%20LikesCategory.png)
+|![Imagen7](https://github.com/sdforero/YouTube/blob/main/6.%20RelationViewsLikes.png)|![Imagen8](https://github.com/sdforero/YouTube/blob/main/7.%20CorrelationViewsLikesDislikes.png)
+|![Imagen9](https://github.com/sdforero/YouTube/blob/main/8.%20ChannelVideos.png)|![Imagen10](https://github.com/sdforero/YouTube/blob/main/9.%20PunctuationViews.png)
 
 ### Analysis conclusions
 - There is a significant correlation between positive comments and the number of video views, suggesting that an entertained and engaged audience tends to increase the popularity of the content.
