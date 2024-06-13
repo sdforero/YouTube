@@ -12,7 +12,7 @@ The project focuses on gaining a better understanding of audience interaction an
 
 ### Functions used
 - TextBlob().sentiment: To analyze the sentiment of comments.
-- 'For' loop: To iterate through the comments and calculate the sentiment of each, storing the result in a new DataFrame column​​.
+- Control structure: For loop To iterate through the comments and calculate the sentiment of each, storing the result in a new DataFrame column​​.
 
 ### Steps followed for data analysis
 1. Data Import: Relevant data such as comments, likes, dislikes, and video views were imported.
